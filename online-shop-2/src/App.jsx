@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      
+      <div className='dark:bg-amber-200 w-screen h-screen'></div>
     </>
   )
 }
